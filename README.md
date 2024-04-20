@@ -6,7 +6,9 @@ Movix is a web application that allows users to search for movies, TV shows, and
 
 ![image](src/assets/p2.png)
 
-## Check out the live version: [Movix Live](https://movix-erj62rvvs-yk-97-jrs-projects.vercel.app)
+
+## Check out the live version: [Movix Live](https://movix-erj62rvvs-yk-97-jrs-projects.vercel.app/)
+
 
 ### Features
 
